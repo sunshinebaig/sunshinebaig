@@ -1,6 +1,6 @@
 #import pandas as pd 
-#data = pd.read_csv("C:\Users\Sunsh\Downloads\load_data_peak6.csv") 
-                   #Preview the first 5 lines of the loaded data 
+"""data = pd.read_csv("C:\Users\Sunsh\Downloads\load_data_peak6.csv") 
+                   #Preview the first 5 lines of the loaded data """
 #data.head()
 
 import csv
